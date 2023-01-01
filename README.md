@@ -3,3 +3,4 @@ This project is called Ojay-Analysis-tool its a generic desktop analysis tool wh
 I, had a tough time at some point developing this application but I guess it was what the wait.
 Note-follow the steps in the uploaded images.
 
+Download-here  (https://github.com/mariamidegwu/Ojay-Analysis-tool-using-Chi-Square-Test/releases)
